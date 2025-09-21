@@ -4,7 +4,7 @@
 
 ---
 
-## 🎬 About Us
+## About Us
 
 Onyx Labs is a nonprofit initiative focused on building inclusive hardware for theatres. Our mission is to ensure that every guest, regardless of hearing ability or sensory needs, can enjoy the magic of movies.
 
@@ -12,31 +12,27 @@ We are fiscally sponsored by [The Hack Foundation](https://hackfoundation.org/) 
 
 ---
 
-## 🚀 Our Projects
+## Our Projects
 
-### 🎯 Project Halo
+### Project Halo
+Project Halo consists of two key device, Lumin, and Oxbit. Each device is designed to assist with a key aspect of the moviegoing experience.
+
+#### Lumin
 **Wearable glasses-based system for closed captions**
 
-Halo is a revolutionary approach to cinema accessibility. Captions appear directly in the viewer's field of vision—discreet, dignified, and fully synchronized with the film. Built to replace outdated infrared solutions, Halo works through modern docking and server management systems.
+Lumin is an AR based closed captioning system. Captions appear directly in the viewer's field of vision—discreet, dignified, and fully synchronized with the film. Built to replace outdated infrared solutions, Lumin works through modern docking and server management systems.
 
-### 🔊 Project Oxbit
+#### Oxbit
 **Compact audio solution for personalized sound control**
 
 Oxbit enables theatre guests to customize their audio experience with volume, filtering, and clarity adjustments without interfering with others' enjoyment. This compact solution addresses the diverse hearing needs of cinema audiences.
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 ### For Theatres
-- Partner with us to pilot our accessibility solutions
-- Help us understand the unique needs of your audience
-- Provide feedback on our hardware and integration processes
-
-### For Developers
-- Contribute to our open-source projects
-- Help improve our hardware and software solutions
-- Join our community of accessibility-focused developers
+- Onyx Labs is always looking for partner theatres to help pilot our hardware! If you're interested, then you can reach out via email at [heath.garvin@minodabproductions.dev](mailto:heath.garvin@minodabproductions.dev)
 
 ### For Supporters
 - [Support our work](https://coff.ee/minodab492) to help us purchase hardware and develop software
@@ -45,35 +41,20 @@ Oxbit enables theatre guests to customize their audio experience with volume, fi
 
 ---
 
-## 🌐 Connect With Us
+## Connect With Us
 
-- **Website**: [https://website-5xw.pages.dev/](https://website-5xw.pages.dev/)
-- **Email**: [hello@onyxlabs.org](mailto:hello@onyxlabs.org)
+- **Email**: [hello@onyxlabs.org](mailto:heath.garvin@minodabproductions.dev)
 - **GitHub**: [@OnyxLaboratories](https://github.com/OnyxLaboratories)
 
 ---
 
-## 💡 Contributing
-
-We welcome contributions from developers, accessibility advocates, and cinema enthusiasts. Here's how you can help:
-
-1. **Fork** this repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add some amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-For larger contributions or partnerships, please reach out to us at [hello@onyxlabs.org](mailto:hello@onyxlabs.org).
-
----
-
-## 📋 Current Status
+## Current Status
 
 Onyx Labs is currently in the **prototyping stage**. We are actively developing and testing our hardware solutions while building partnerships with theatres for pilot programs.
 
 ---
 
-## ⚖️ Legal
+## Legal
 
 © 2025 Onyx Labs, All Rights Reserved.
 
